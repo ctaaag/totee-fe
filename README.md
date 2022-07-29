@@ -64,7 +64,7 @@
 
 </br>
 
-## 시작하기
+## 🏁 시작하기
 
 ```bash
 > git clone https://github.com/Totee-Side-Project/totee-fe.git
